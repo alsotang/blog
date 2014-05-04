@@ -1,4 +1,4 @@
-Alsotang's blog
+Alsotang's blog（此项目废弃）
 ====
 
 Blog 以 github issue 的方式存在。
